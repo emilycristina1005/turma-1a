@@ -3,12 +3,28 @@ body{
   text-align: center;
   font: size 20px;
  }
- h1{
-color: aqua;
-p}
+ h1 {
+    color: aqua;
+ }
+p { 
+    text-align: center;
+    font-size: 20px;
+}
+h2 {
+    color:rgb(243, 228,210);
+}
+
+p {
+    text-align:justify;
+    font-slize:2opx;
+}
+
+
+
 
     
 
 
 
 ;
+
